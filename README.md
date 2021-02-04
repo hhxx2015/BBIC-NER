@@ -1,5 +1,5 @@
 # 医疗NER
-# Bert+BiLSTM+CRF 医疗NER
+# Bert+BiLSTM+CRF 
 
 #### 一、该方法表现
 

@@ -1,5 +1,5 @@
 # 医疗NER
-# Bert+BiLSTM+CRF 
+# Bert+BiLSTM+CRF (以下简称BBIC)
 
 #### 一、该方法表现
 

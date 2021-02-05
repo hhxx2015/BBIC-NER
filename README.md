@@ -27,11 +27,12 @@
 
 （1）all文件夹存放训练好的模型（解压约19G）
 
-
+链接：https://pan.baidu.com/s/1K6uCbVZeLJqhmftyKKkdzA 
+提取码：7xvi 
 
 （2）output_sym文件夹存放训练好的模型（解压约19G）
-
-
+链接：https://pan.baidu.com/s/1QhjTY-EvYV3j1AoxnfXm-w 
+提取码：mbsb 
 
 <u>主要使用 **训练_run.py**、**测试_run.py**，再文件开头配置Bert文件、data文件夹、output文件夹\models文件夹、以及标签。然后run起来即可。（个人使用的是tensorflow1.14）</u>
 
